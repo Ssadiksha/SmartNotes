@@ -5,16 +5,16 @@ SmartNotes allows users to create, read, update, and delete notes using a simple
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✏️ Create new notes
-- 📄 View all notes
-- 🔄 Update existing notes
-- ❌ Delete notes
-- 🗄️ MySQL database integration
-- 🌐 RESTful API design
-- 📁 Clean and scalable project structure
-- 🔒 Environment variable support with `.env`
+- Create new notes
+- View all notes
+- Update existing notes
+- Delete notes
+- MySQL database integration
+- RESTful API design
+- Clean and scalable project structure
+- Environment variable support with `.env`
 
 ---
 
